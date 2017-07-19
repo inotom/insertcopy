@@ -1,0 +1,14 @@
+{
+  "name": "insertcopy",
+  "version": "1.0.0",
+  "description": "Insert copyright line to stdin text",
+  "main": "insertcopy.js",
+  "bin": {
+    "insertcopy": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iNo <wdf7322@yahoo.co.jp>",
+  "license": "MIT"
+}
